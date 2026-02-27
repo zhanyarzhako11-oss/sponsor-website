@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="ku">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Zaman Mobile</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f6f9;
+            margin: 0;
+            padding: 0;
+            text-align: center;
+            direction: rtl;
+        }
+        header {
+            background-color: #0d6efd;
+            color: white;
+            padding: 20px;
+        }
+        section {
+            padding: 40px;
+        }
+        .btn {
+            display: inline-block;
+            padding: 10px 20px;
+            background-color: #198754;
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+            margin-top: 15px;
+        }
+        footer {
+            background-color: #222;
+            color: white;
+            padding: 15px;
+            margin-top: 40px;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Zaman Mobile</h1>
+    <p>پێشەنگی فرۆشتنی مۆبایل و ئامێرە ئەلیکترۆنییەکان</p>
+</header>
+
+<section>
+    <h2>بەخێربێن بۆ وێبسایتەکەمان</h2>
+    <p>ئێمە باشترین مۆبایل و ئەکسسوارات بە نرخی گونجاو پێشکەش دەکەین.</p>
+    <a href="#" class="btn">پەیوەندی بکە</a>
+</section>
+
+<footer>
+    <p>© 2026 Zaman Mobile - هەموو مافەکان پارێزراون</p>
+</footer>
+
+</body>
+</html>
+
